@@ -3,7 +3,6 @@ public class gradecalculator {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.println("\n\n: : : WELCOME : : :\n");
-        System.out.println("CODSOFT INTERNSHIP TASK 2\n");
         System.out.println("CALCULATE THE STUDENT GRADE:\n");
         System.out.print(":ENTER STUDENT NAME:- ");
         String name = sc.nextLine();
